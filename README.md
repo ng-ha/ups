@@ -1,4 +1,4 @@
-# Ups clone with `React-Native` + `@apollo/client` 🚚
+## Ups clone with `React-Native` + `@apollo/client` + `GraphQL` 🚚
 
 ### Technologies ✨
 
