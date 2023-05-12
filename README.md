@@ -20,10 +20,7 @@
 <img width="49%" src="./github-images/4.png" alt="ng-ha" />
 </div>
 
-<div style="display: flex; justify-content: center">
-<video scr="https://github.com/ng-ha/ups/assets/115610452/4b55721d-10d3-40a8-938e-acebb8ccef79" width="360px"></video>
-</div>
-
+https://github.com/ng-ha/ups/assets/115610452/4b55721d-10d3-40a8-938e-acebb8ccef79
 
 ### License :right_anger_bubble:
 
